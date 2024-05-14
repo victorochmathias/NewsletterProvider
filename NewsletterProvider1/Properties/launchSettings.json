@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NewsletterProvider1": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7218",
+      "launchBrowser": false
+    }
+  }
+}
